@@ -1,0 +1,197 @@
+.header{
+ background-color: #f06428;
+  margin-top: -10px;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -9px;
+  height: 130px;;
+  border: 3px solid #f06428;
+
+}
+
+.top-panel{
+   margin-left: 190px;
+  color: white;
+  text-align: left;
+}
+
+.right-panel{
+
+   margin-right: 100px;
+  color: white;
+  float: right;
+  word-spacing: 20px
+}
+
+
+
+.logo{
+  margin-top:  15px;;
+  width: 150px;
+  height: 50px;
+  margin-left: 190px;
+  margin-right: 5px;
+} 
+
+.cart{
+  margin-top:  30px;
+  width: 50px;
+  height: 40px;
+  margin-right: 250px;
+  float: right;
+  
+}
+
+
+.lower-panel{
+
+  margin-left: 320px;
+  margin-top:  18px;
+  color: white;
+  word-spacing: 2px;
+
+  
+}
+
+
+  
+input[type="text"] {
+    width:  45%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px 0 0 5px; /* Rounded left corners */
+    outline: none;
+    background-color: #f2f2f2;;
+    height: 20px;
+    margin-left: 90px;
+}
+  
+.search{
+  margin-top: -50px;
+ margin-left: -65px;
+  margin-bottom:  -10px;  
+}
+
+
+.ads{
+     margin-top: px;
+     margin-left: 150px;
+      margin-bottom:  -300px;
+      width: 1000px;
+      height: 264px;
+      
+}
+
+
+
+.selection-img {
+  width: 990px;
+  height: 100px;
+  padding: 3px;
+  border: 1px solid #000000;
+  margin-top: 320px;
+   margin-left: 150px;
+    margin-bottom:  300px;
+
+}
+
+
+.categories{
+    width: 990px;
+    height: 400px;
+    padding: 3px;
+    border: 1px solid #1c2333;
+    margin-top: -260px;
+    margin-left: 150px; 
+  background-color: #d6d1d1;
+}
+
+
+.mensapparel{
+ 
+  height: 150px;
+  width: 150px;
+  margin-left: -20px; 
+  margin-bottom: -24px;
+}
+
+.mens-apparel{
+  margin-left: 30px;
+  
+}
+
+
+.mobilengadgets{
+  height: 150px;
+  width: 150px;
+  margin-left: -2px; 
+  margin-bottom: -24px;
+}
+
+.mobilegadgets{
+  margin-left: 25px;
+}
+
+
+.mobile-accesoriess{
+
+  height: 150px;
+  width: 150px;
+  float: right;  
+}
+
+  
+.flashsale{
+    width: 990px;
+    height: 350px;
+    padding: 3px;
+    border: 1px solid #1c2333;
+    margin-top: 30px;
+    margin-bottom: -100px;;
+    margin-left: 150px; 
+  background-color: #ffffff;
+}
+
+
+.flashsales{
+  height: 50px;
+  width: 240px;
+}
+
+
+.watch{
+  height: 100px;
+  margin-top: -3%;
+}
+
+
+.laptop{
+  height: 20px;
+  width: 20px;;
+  margin-top: -10%;
+  margin-left: 35%;  
+}
+
+.smartwatch{
+  height: 100px;
+   margin-top: -5%;
+  float: right;
+}
+
+.price1{
+  margin-left: 130px;
+  margin-top: -25px;
+}
+
+.price2{
+  margin-left: 130px;
+  margin-top: -25px;
+}
+
+
+.price3{
+
+  margin-left: 130px;
+  margin-top: -5px;
+  
+}
